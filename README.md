@@ -1,7 +1,7 @@
 - 👋 Eu sou karlos
 - 👀 Estou interessado em futebol
 - 🌱 Atualmente estou aprendendo pensamento computacional
-- 💞️ Procuro coloborar com os professores 
+- 💞️ Procuro coloborar com as aulas 
 
 
 <!---
